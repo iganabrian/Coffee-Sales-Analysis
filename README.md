@@ -6,13 +6,18 @@ I developed a comprehensive project in Excel by creating a dashboard that gives 
 2. Pivot Tables;
 3. Slicers; and
 4. Interactive Dashboard with navigation links to various excel sheets.
-   
-# QUESTIONS
+
+## Dataset Used
+-<a href="https://github.com/iganabrian/Coffee-Sales-Analysis/blob/main/coffee.xlsx"> Dataset<a>
+## QUESTIONS
 1. What is the total coffee sales?
 2. Which is the hights bought coffee?
 3. Which is the most preferred mode of payment? 
 5. Which is the pick hour of coffee buying?
 6. Which coffee sales that are above $10,000.00?
+
+## Dashboard
+-<a href="https://github.com/iganabrian/Coffee-Sales-Analysis/blob/main/Dashboard.PNG">Dashboard<a>
 
 ## INSIGHTS
 1. Total coffee sales was 115,431.58 for the year 2024 and 2025;
@@ -22,7 +27,12 @@ I developed a comprehensive project in Excel by creating a dashboard that gives 
 5. Pick hour of coffee buying over the 2 years has been in the morning with a slight drop in the evening; and
 6. There are 8 Coffee sales that are above $10,000.00 namely.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
 1. Introducing redeemable loyality points through card payments may increse coffee sales; and
 2. Coffe sales are at pick during morning hours and afternoon. This calls for an increase in staff team to meet the high demand.
 
+-<a href="https://github.com/iganabrian/Coffee-Sales-Analysis/blob/main/Insights.PNG">Insights & Recommendations<a>
+
+## My complete project link 
+
+-<a href="https://github.com/iganabrian/Coffee-Sales-Analysis/blob/main/Coffee%20Sales%20Analysis.xlsx">Complete Project<a>
