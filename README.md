@@ -1,5 +1,5 @@
 # Coffee-Sales-Analysis-Using Excel 
-I developed a comprehensive project in Excel by creating a dashboard that gives insights to the analysis of Coffee Sales from Dataset that I got from Kaggle. The process involved cleaning the data, introduced new column, calculating measures, creating pivot tables, charts visualization, mavigation bar. insights and provided recommendations. 
+I developed a comprehensive project in Excel by creating a dashboard that gives insights to the analysis of Coffee Sales from a Dataset that I got from Kaggle. The process involved cleaning the data, introduced new column, calculating measures, creating pivot tables, charts visualization, mavigation bar. insights and provided recommendations. 
 
 ## Tools used 
 1. Excel PowerQuery;
